@@ -15,5 +15,5 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danya-ermilov&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📌 Мои топ-проекты
-- [Проект 1](https://github.com/danya-ermilov/chess_bot) — Шахматный бот.
-- [Проект 2](https://github.com/danya-ermilov/server) — Серверная часть приложения по обмену стратегиями на бирже.
+- [chess bot](https://github.com/danya-ermilov/chess_bot) — Шахматный бот.
+- [market](https://github.com/danya-ermilov/server) — Серверная часть приложения по обмену стратегиями на бирже.
