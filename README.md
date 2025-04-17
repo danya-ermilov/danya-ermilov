@@ -25,6 +25,7 @@
 ## 🏆 Featured Projects
 - [Chess Bot](https://github.com/danya-ermilov/chess_bot) - Advanced chess engine with AI opponent
 - [Trading Strategies Platform](https://github.com/danya-ermilov/server) - Backend for stock market strategy exchange application
+- [Chat with priorites](https://github.com/danya-ermilov/websocket-chat) - Online chat with priorites
 
 ## 📚 Currently Learning
 - Distributed systems design
