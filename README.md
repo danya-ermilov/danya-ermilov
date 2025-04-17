@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, меня зовут Ермилов Даниил! 👋
 
-<!--
-**danya-ermilov/danya-ermilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Я занимаюсь backend-разработкой.  
+💡 Увлекаюсь алгоритмами.  
+📫 Как связаться: @Daniil_tel.  
 
-Here are some ideas to get you started:
+## 🔧 Технологии и инструменты
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Статистика GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danya-ermilov&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danya-ermilov&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📌 Мои топ-проекты
+- [Проект 1](https://github.com/danya-ermilov/chess_bot) — Шахматный бот.
+- [Проект 2](https://github.com/danya-ermilov/server) — Серверная часть приложения по обмену стратегиями на бирже.
