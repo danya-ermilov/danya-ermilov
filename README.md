@@ -34,6 +34,10 @@
 - Backend for quantitative strategy exchange  
 - Implements: Order matching engine, WebSocket API, JWT auth  
 
-## 📈 GitHub Stats
+## 📊 Coding Stats
+### GitHub Activity
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danya-ermilov&layout=compact&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danya-ermilov&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### LeetCode Progress
+[![LeetCode Stats](https://leetcard.jacoblin.cool/daniil_ermilov?theme=dark&font=baloo)](https://leetcode.com/danya-ermilov/)
