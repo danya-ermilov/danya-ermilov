@@ -1,6 +1,6 @@
 # Hi, I'm Daniil Ermilov! 👋
 
-🚀 Backend Engineer | Algorithm Specialist  
+🚀 Backend Engineer | Algorithms Enthusiast   
 💡 Passionate about high-performance systems and optimization  
 📫 Contact: @Daniil_tel
 
