@@ -26,7 +26,7 @@
 
 ## 🏆 Projects
 ### ♟️ [Chess Engine](https://github.com/danya-ermilov/chess_bot)
-- C++17 implementation with bitboard representation  
+- C++17 implementation 
 - Features: Minimax with α-β pruning, quiescence search, move ordering  
 - Supports UCI protocol and has 1800+ ELO strength  
 
