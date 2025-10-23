@@ -12,7 +12,7 @@
 ## 💼 Work Experience  
 
 ### Yandex  
-**Backend Engineering**
+**Backend Engineer**
 - **10× performance boost** by migrating Python data processing to optimized YQL  
 - **Improved throughput** by implementing asynchronous task decomposition  
 - Tech stack: Python, YQL (SQL), Linux  
