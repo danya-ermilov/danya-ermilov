@@ -12,7 +12,7 @@
 ## 💼 Work Experience  
 
 ### Yandex  
-**Backend Engineering Intern** | November 2024 - March 2025  
+**Backend Engineering**
 - **10× performance boost** by migrating Python data processing to optimized YQL  
 - **Improved throughput** by implementing asynchronous task decomposition  
 - Tech stack: Python, YQL (SQL), Linux  
