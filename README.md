@@ -6,6 +6,8 @@
 
 ## 🎓 Education
 **Moscow Engineering Physics Institute (MEPhI)**  
+*M.Sc in Applied Mathematics & Physics* | 2025 - present
+**Moscow Engineering Physics Institute (MEPhI)**  
 *B.Sc in Applied Mathematics & Physics* | 2020 - 2025  
 
 
